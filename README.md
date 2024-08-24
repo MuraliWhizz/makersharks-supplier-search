@@ -107,7 +107,7 @@ You can interact with the API using HTTP methods via tools like [Postman](https:
     {
         "company_name": "BMW",
         "website": "https://www.bmw.com",
-        "location": "Germany",
+        "location": "Global",
         "nature_of_business": "SMALL_SCALE",
         "manufacturing_processes": ["THREE_D_PRINTING", "CASTING"]
     }
@@ -125,7 +125,7 @@ You can interact with the API using HTTP methods via tools like [Postman](https:
     {
         "company_name": "BMW",
         "website": "https://www.bmw.com",
-        "location": "Germany",
+        "location": "Global",
         "nature_of_business": "SMALL_SCALE",
         "manufacturing_processes": ["THREE_D_PRINTING", "CASTING"]
     }
@@ -144,7 +144,7 @@ You can interact with the API using HTTP methods via tools like [Postman](https:
         {
             "company_name": "BMW",
             "website": "https://www.bmw.com",
-            "location": "Germany",
+            "location": "Global",
             "nature_of_business": "SMALL_SCALE",
             "manufacturing_processes": ["THREE_D_PRINTING", "CASTING"]
         },
