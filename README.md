@@ -43,7 +43,7 @@ The Supplier Search API is a RESTful API developed for the Makersharks project. 
 1. **Clone the Repository**
 
     ```bash
-    git clone <repository-url>
+    git clone https://github.com/MuraliWhizz/makersharks-supplier-search
     cd suppliersearch
     ```
 
